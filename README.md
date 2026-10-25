@@ -17,30 +17,24 @@ This repository is my Python companion to [leetcode-cpp-solutions](https://githu
 - 📚 Learn algorithms and data structures.
 - 🔁 Compare Python approaches with my C++ solutions where useful.
 
+---
+
+## 🔥 My LeetCode Progress
+
+<div align="center">
+
+![LeetCode Stats](https://nishok-leetcode-stats.vercel.app/api/card?theme=github-dark\&border_radius=12)
+
+</div>
+
+---
+
 ## 📂 Repository Structure
 
-```text
-leetcode-python-solutions/
-├── Easy/
-│   └── 0001_two_sum.py
-├── Medium/
-└── README.md
-```
+* `Easy/` — Easy-level solutions.
+* `Medium/` — Medium-level solutions.
 
-Solutions are named with the zero-padded LeetCode problem number and a `snake_case` title, for example `0001_two_sum.py`. Each solution includes a link to the problem and its expected `Solution` method.
-
-## 🧭 Progress
-
-| Difficulty | Solved |
-| --- | ---: |
-| Easy | 1 |
-| Medium | 0 |
-
-I’ll update this table as I add solutions.
-
-## 📜 License
-
-This repository is licensed under the MIT License. See [LICENSE](./LICENSE).
+Solutions are named using their LeetCode problem number and title.
 
 ---
 
